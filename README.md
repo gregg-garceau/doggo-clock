@@ -7,4 +7,4 @@ Gif will changed based on time as follows:
 
 6:00 - 11:59 - Waking Up Doggo
 
-12:00 - 17:59 - Workin Doggo
+12:00 - 17:59 - Working Doggo
